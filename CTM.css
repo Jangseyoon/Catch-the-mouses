@@ -38,19 +38,16 @@ section {
   cursor : pointer;
 }
 
-.gaming {
-  width : 100%;
-  height : 100%;
-}
 
 .topA {
   width : 100%;
-  height : 70%;
+  height : 420px;
+ 
 }
 
 .bottomA {
   width : 100%;
-  height : 30%;
+  height : 180px;
 }
 
 .timer {
@@ -59,10 +56,8 @@ section {
   border : 1px solid whitesmoke;
   background : whitesmoke;
   border-radius : 15px;
-  margin: auto;
-  margin-top : 30px;
-  margin-bottom : 10px;
-  font-size : 50px;
+  margin: 0 auto;
+  font-size : 40px;
   line-height : 60px;
   text-align : center;
 }
