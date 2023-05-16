@@ -19,4 +19,6 @@
 
 <h2>시작 화면</h2><br>
 사용자가 버튼을 누르면 바로 게임이 시작되고 10초 타이머가 동작함.<br>
-![tlwkr](https://github.com/Jangseyoon/Catch-the-mouses/assets/92420662/84c3f3a6-64b1-45a9-90f4-28159a0910b1)
+
+![image](https://github.com/Jangseyoon/Catch-the-mouses/assets/92420662/87080ad4-229a-490b-8efe-79980e5b0d43)
+![image](https://github.com/Jangseyoon/Catch-the-mouses/assets/92420662/7573b0a7-6793-4195-871d-35a36570a6d3)
